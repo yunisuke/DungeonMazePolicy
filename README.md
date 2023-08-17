@@ -1,2 +1,1 @@
-# DungeonMazePolicy
 ダンジョン迷路のプライバシーポリシー用リポジトリ
